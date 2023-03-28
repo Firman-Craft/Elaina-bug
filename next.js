@@ -23,7 +23,7 @@ browser: ['Lexxt Official','Safari','1.0.0'],
 auth: state,
 version
 })
-
+{ dah lag }
 store.bind(lexx.ev)
 
 lexx.ev.on('messages.upsert', async chatUpdate => {
